@@ -1,0 +1,1206 @@
+{
+    "CHILLGUY": {
+        "price": 0.241,
+        "rate": 74,
+        "holders": [
+            "ANz5PLVdbdVzu6VHkKfZBjVXeyD1vRc9XescwkYXCf9r",
+            "7poh6LqQqFExoVJeNLHRF6tSDkVY5A9im7Zu6metxjeR",
+            "CGkMaFkYjqnvy5RYbAZZ8LyY4e9yXw9ekYwEMiY9m8ym",
+            "GzRsww2BLfQoCJVwiBcM39Y117FJNtXW4qMJTs9pY4wZ",
+            "Dmr4T7kL9mvB3xT4W2tXgWs7NTo3qUHP4NyCsWsuCRau",
+            "B8iTF8UzKQgYCS3M77WZ9EFVkgHM9PKyZdr6D1Lr68m",
+            "6KVyzB7Sxx2Rnk7J8ZEhBZPbKyiRq3tPY9YNhtCjcems",
+            "FBrRa74zUVJ4uvZK3XMbkUSUFTNTVjKBbHN1koVW43U6",
+            "8mq9MKd6HcmqWLiQR33DutNo7RGFAHx13F4eQE4Djccy",
+            "FVvackAp4rU5TFfuHveT3uA6Lwxs9B6TcuyyCvcFfVts",
+            "9fAthPZBMkgMmojygap4DX7ykoKt9EZcmrH2oTgsg34R",
+            "GjXEpdA59dTCVN4Z6pE9P3hK5Sczvk8BBFgPb3f2M4Fs",
+            "C2Mx5pVPUexpeYTWvSCiN9uiL7RyiBXRzGXns6duX9gG",
+            "CRpwd4tyahsTv26WSowoB9JPAW9BgemLeR3raZBgMQcj",
+            "7YktHzoqNRz1WN7wNLB8LfeSkrxSHipLSbZCT2LFADhx",
+            "28MyYrYpRwAwiACFwKQbzJ7LXAq3tSBPTJzrmG6ep1Fi",
+            "3dzy3JJzfS882FsQvhLtoH7EVJhLM23UnMzb1movjeaM",
+            "Etj6e8LpiJgRvbkaTDzURCe4mK31ENN8g6dCufnFoX9c",
+            "HsDC4zBM1z9kHREZSfnHRVXXSa9QmaDcLbSbZNw5LbEd",
+            "hGTyZXJRR4EJgpzBvWbJfTVbX5oq7LUiVb9G6V34dAm",
+            "4GwjiXRfCerHjrf7fjPPsewLMTu3gN7pMnkA3bGcANT3",
+            "BjBu4TA71fx8RYimzvcPsjK88CM2jxXSCmkHPFNRKFb1",
+            "3UjuWkeBDpsRsbuCZ1BgeW5K4xyygePoViH2khSsHfrV",
+            "EP6kq5eswZYsfuUiAA5mUcXunFkLUM439vMms1DtXXjD",
+            "2s1xW3rvrtQ3Ez4Z3iPnzUDMPGfWMFkK2Cs2urgGxrCy",
+            "6RDwGkLLdiw91yDeChB8Pv3VpkepJ3WdnLRwaSMQFqBm",
+            "YZfpcxQAKxoSjWf1sqVS5KKhgwxuS3y8h4xYCjSDXsZ",
+            "HaADMdMUdshuPKVTw1wS8AFUfswg4Ks1PxAjRePrheuW",
+            "6J8B87VPRAe5XWJmLWZ8ECkyJHirdZeXhvnvD5fW7aFe",
+            "BVGL4WTK5jy5d5RYHhZp7Q1aqgy4EaTDBByp9NAyRkdL",
+            "83r8mtvmZXhytf8BeYYtBJtTABRDHuLLEez3CBpUMXaT",
+            "D4iuHXLe2QhhBX5kSSnooTVkHK3eDc6pCiJovSKz6qE8",
+            "95tNQDoJkPuBNJkHAhXXZMKM8aqYuxzeT8YBS2UyRcrx",
+            "54eKCWB8MY2k5wA5JJTwhcqe9pczWx8tH9xho4UVAHsL",
+            "BZi5L1mCmVjXdUmeCRQWfKvuWqXakmRYQPFpmS559hD1",
+            "2BU3NAzgRA2gg2MpzwwXpA8X4CCRaLgrf6TY1FKfJPX2",
+            "BYrUAksL3r2q3WDQvyfBsD1zhFqSkj9ujHQ2wtk5yLGn",
+            "HrUvrcRSNn9hZP6rXHnncxGw11k5dMtLxrsfFePUKmbA",
+            "HfZxqEcV416RyKtfpey31GtijvZp4k9wQpQ19HsvkKSE",
+            "9M5QGgUbL2VWniwgN6jTHwLJSyktgz738QjmbSWMhQS4",
+            "DhJNSHwyQ577dKevaXBq6EAJrVcBvV7TbY1G9QNh7bJg",
+            "Aeoh8th7Hi6KT13xEtUheRibzGCcK4hBZuciihYZP1An",
+            "71m12A5zLEowFRkwunLvd1MgUUPRBbMCxQPafxkg9idF",
+            "AQJxfkc6AbLwS3A9RfM3wjdiS7yseWgm8KrKiSGaTrk4",
+            "DCRSAhR9Q4RVSKX19oc2Zq7j8qCw3V4X632etRRX8Lr4",
+            "3gABYRSLnzYsdFawJNGeYxSAx7isNWfBbfz97twgXu5s",
+            "45KqzgVjjw9QvHweetoGpUGAVZkZPMDdZtS63qx7f6GN",
+            "928HvrAk5YVgksEP87KixnkhqjXTcagYYmZfZzSgLq8T",
+            "2KQrAbqQqxJjzkH3HWXzEpF6vr6KZ6F4PVfG9Q6zbLsv",
+            "AykJbGJ6e2MVAw4Y9ekPBDQNmVbhBZQayD8XHnA2xmTQ",
+            "BWg7T2hD4FB4yQ9B3V2KfCxQHsuZc2byjMBrUUnSMB1A",
+            "FtwH3whQtQWHX6pbuJSEHYoBXcGGF6wBKXb3Em32WraV",
+            "ByETnksPEnzhNjEhSNX2wqxurQthaXF3bps8bc8sZGfD",
+            "BQdup9b7WHgu2hd4wpJpLH4E9pJDzmXD8eD9TjygpABp",
+            "ByorRgZfHxmdCS7CNbkeCFpF8g7ofeXPDRiwrivhbGe1",
+            "2mPHGv6g5TkEUJNaQuQGBfwbwFi1L5FVSg9otJmeTHoy",
+            "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY",
+            "3FxiBcKSbLQVar7z899zfUf7ybw97tVggcHfBXADsamq",
+            "3QCVnpbMTTLGyLfNj5H7Xy6bHti3oe5XQ6MAkoWvVUS9",
+            "FomqL4uhvEPePX37gGSKn9cg14VQSVZJQdCvfss9kbZK",
+            "Bjw4TsjQghc5bJEXqzWLP4zFxG7nSYN7Se9kCVRUkPMc",
+            "FEx6FtYU1fjwRnAxtgBJanK6rvin3mkdio2AQJ39Efd4",
+            "8o8BBdC8PBs3EDLBjwBYFmUAke8F4Ej2CQCpkSkZ36m3",
+            "2GTxgLAsbHPGUWSuj7n2kb7JpW2xQhzfXv3ukqpEjdDi",
+            "3gvaqHrFdGaLXpXtMHaeKRDUdEC18WF7pNSMX5QYFAST",
+            "57CNaZfSg6ZPmGNFPfM11n2yWDSbbxsj29ou2sp1HdTt",
+            "AryNiux7LnqarYAjnhUizec5bY8zBh7PWG43a9Pj7Zhx",
+            "5CXyPAvBv7R7fTdbqeo7LWo3Kg9sLpL3pCK68BZnkjPe",
+            "2sQKejqj3PXWth3eEQ4tEUtmgCafGqESi5ory9xMTLDr",
+            "2rsiq7NZzcUU4vHpr5eJ5xDir4q6qphNKAndVLwk6Sqb",
+            "9zWX2pQMZY8CuGVQYJujkkhUxkU2CGBkaVmTAALJc4cK",
+            "23FhuJYzusyUTbvw2s6KuQbMMww4HQV923fbZ8GsM7jE",
+            "BwJk4GbPdZxzeT8ktsnGVRtxoTyuTkReNkkatpPhqYuR",
+            "4ZqxvghMZSesoxYJewpEhD1sMKu9XKwBDmvWw82HjNwq"
+        ],
+        "contract": "Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump"
+    },
+    "USDC": {
+        "price": 0.999,
+        "rate": 10,
+        "holders": [
+            "FBrRa74zUVJ4uvZK3XMbkUSUFTNTVjKBbHN1koVW43U6",
+            "4GwjiXRfCerHjrf7fjPPsewLMTu3gN7pMnkA3bGcANT3",
+            "6RDwGkLLdiw91yDeChB8Pv3VpkepJ3WdnLRwaSMQFqBm",
+            "4ALzjSMHnYPPxonmceFEszDCFVSXahhzNAKKPwgsDJaP",
+            "FtwH3whQtQWHX6pbuJSEHYoBXcGGF6wBKXb3Em32WraV",
+            "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY",
+            "3QCVnpbMTTLGyLfNj5H7Xy6bHti3oe5XQ6MAkoWvVUS9",
+            "3gvaqHrFdGaLXpXtMHaeKRDUdEC18WF7pNSMX5QYFAST",
+            "2rsiq7NZzcUU4vHpr5eJ5xDir4q6qphNKAndVLwk6Sqb",
+            "4ZqxvghMZSesoxYJewpEhD1sMKu9XKwBDmvWw82HjNwq"
+        ],
+        "contract": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+    },
+    "Quant": {
+        "price": 0.05685,
+        "rate": 8,
+        "holders": [
+            "HfqgVXrKv8vBoqLGqGgEpxAR1vw6hUH28CUkdytU2Cuf",
+            "6RDwGkLLdiw91yDeChB8Pv3VpkepJ3WdnLRwaSMQFqBm",
+            "6J8B87VPRAe5XWJmLWZ8ECkyJHirdZeXhvnvD5fW7aFe",
+            "2BU3NAzgRA2gg2MpzwwXpA8X4CCRaLgrf6TY1FKfJPX2",
+            "45KqzgVjjw9QvHweetoGpUGAVZkZPMDdZtS63qx7f6GN",
+            "ByorRgZfHxmdCS7CNbkeCFpF8g7ofeXPDRiwrivhbGe1",
+            "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY",
+            "EnGZBjDA5tTkcX8SHLa6mEqty22tV7NpdWAKB9r7U5pi"
+        ],
+        "contract": "3an8rhdepsLCya22af7qDBKPbdomw8K4iCHXaA2Gpump"
+    },
+    "WAIT": {
+        "price": 0.02059,
+        "rate": 6,
+        "holders": [
+            "C2Mx5pVPUexpeYTWvSCiN9uiL7RyiBXRzGXns6duX9gG",
+            "4GwjiXRfCerHjrf7fjPPsewLMTu3gN7pMnkA3bGcANT3",
+            "2s1xW3rvrtQ3Ez4Z3iPnzUDMPGfWMFkK2Cs2urgGxrCy",
+            "4ALzjSMHnYPPxonmceFEszDCFVSXahhzNAKKPwgsDJaP",
+            "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY",
+            "3gvaqHrFdGaLXpXtMHaeKRDUdEC18WF7pNSMX5QYFAST"
+        ],
+        "contract": "CbUPTbC4K7zdAEWxfa1nad4468xpX3LpWPhZVnzybhfN"
+    },
+    "HUZZ": {
+        "price": 0.01968,
+        "rate": 6,
+        "holders": [
+            "C2Mx5pVPUexpeYTWvSCiN9uiL7RyiBXRzGXns6duX9gG",
+            "2s1xW3rvrtQ3Ez4Z3iPnzUDMPGfWMFkK2Cs2urgGxrCy",
+            "6J8B87VPRAe5XWJmLWZ8ECkyJHirdZeXhvnvD5fW7aFe",
+            "BYrUAksL3r2q3WDQvyfBsD1zhFqSkj9ujHQ2wtk5yLGn",
+            "928HvrAk5YVgksEP87KixnkhqjXTcagYYmZfZzSgLq8T",
+            "57CNaZfSg6ZPmGNFPfM11n2yWDSbbxsj29ou2sp1HdTt"
+        ],
+        "contract": "D1khZH8Kz255iw8VLiACCPiYgC4XdnAFD3sYsusupump"
+    },
+    "Chillgirl": {
+        "price": 0.004703,
+        "rate": 5,
+        "holders": [
+            "ANz5PLVdbdVzu6VHkKfZBjVXeyD1vRc9XescwkYXCf9r",
+            "C2Mx5pVPUexpeYTWvSCiN9uiL7RyiBXRzGXns6duX9gG",
+            "2s1xW3rvrtQ3Ez4Z3iPnzUDMPGfWMFkK2Cs2urgGxrCy",
+            "BQdup9b7WHgu2hd4wpJpLH4E9pJDzmXD8eD9TjygpABp",
+            "9zWX2pQMZY8CuGVQYJujkkhUxkU2CGBkaVmTAALJc4cK"
+        ],
+        "contract": "AH9oMYaNWwwh93rthazxXcJB7kyFsLgZMxDJxbwpump"
+    },
+    "FWOG": {
+        "price": 0.5003,
+        "rate": 5,
+        "holders": [
+            "FBrRa74zUVJ4uvZK3XMbkUSUFTNTVjKBbHN1koVW43U6",
+            "AykJbGJ6e2MVAw4Y9ekPBDQNmVbhBZQayD8XHnA2xmTQ",
+            "FtwH3whQtQWHX6pbuJSEHYoBXcGGF6wBKXb3Em32WraV",
+            "2mPHGv6g5TkEUJNaQuQGBfwbwFi1L5FVSg9otJmeTHoy",
+            "EnGZBjDA5tTkcX8SHLa6mEqty22tV7NpdWAKB9r7U5pi"
+        ],
+        "contract": "A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump"
+    },
+    "AVA": {
+        "price": 0.05571,
+        "rate": 3,
+        "holders": [
+            "C2Mx5pVPUexpeYTWvSCiN9uiL7RyiBXRzGXns6duX9gG",
+            "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY",
+            "EnGZBjDA5tTkcX8SHLa6mEqty22tV7NpdWAKB9r7U5pi"
+        ],
+        "contract": "DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump"
+    },
+    "SKBDI": {
+        "price": 0.8854,
+        "rate": 3,
+        "holders": [
+            "8Hkbb3fkyBZi92dtGEXWuZyErRhUHSnHwTQJjxr32upg",
+            "3UjuWkeBDpsRsbuCZ1BgeW5K4xyygePoViH2khSsHfrV",
+            "AykJbGJ6e2MVAw4Y9ekPBDQNmVbhBZQayD8XHnA2xmTQ"
+        ],
+        "contract": "DPaQfq5sFnoqw2Sh9WMmmASFL9LNu6RdtDqwE1tab2tB"
+    },
+    "RETARDIO": {
+        "price": 0.1402,
+        "rate": 3,
+        "holders": [
+            "8Hkbb3fkyBZi92dtGEXWuZyErRhUHSnHwTQJjxr32upg",
+            "AykJbGJ6e2MVAw4Y9ekPBDQNmVbhBZQayD8XHnA2xmTQ",
+            "23FhuJYzusyUTbvw2s6KuQbMMww4HQV923fbZ8GsM7jE"
+        ],
+        "contract": "6ogzHhzdrQr9Pgv6hZ2MNze7UrzBMAFyBBWUYp1Fhitx"
+    },
+    "POPCAT": {
+        "price": 1.69,
+        "rate": 3,
+        "holders": [
+            "4GwjiXRfCerHjrf7fjPPsewLMTu3gN7pMnkA3bGcANT3",
+            "AykJbGJ6e2MVAw4Y9ekPBDQNmVbhBZQayD8XHnA2xmTQ",
+            "FtwH3whQtQWHX6pbuJSEHYoBXcGGF6wBKXb3Em32WraV"
+        ],
+        "contract": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr"
+    },
+    "GOAT": {
+        "price": 1.24,
+        "rate": 3,
+        "holders": [
+            "4ALzjSMHnYPPxonmceFEszDCFVSXahhzNAKKPwgsDJaP",
+            "Bjw4TsjQghc5bJEXqzWLP4zFxG7nSYN7Se9kCVRUkPMc",
+            "9zWX2pQMZY8CuGVQYJujkkhUxkU2CGBkaVmTAALJc4cK"
+        ],
+        "contract": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump"
+    },
+    "SHIMMY": {
+        "price": 0.004831,
+        "rate": 2,
+        "holders": [
+            "CGkMaFkYjqnvy5RYbAZZ8LyY4e9yXw9ekYwEMiY9m8ym",
+            "28MyYrYpRwAwiACFwKQbzJ7LXAq3tSBPTJzrmG6ep1Fi"
+        ],
+        "contract": "QcNnhASrCxLpkqndMvLJmBu8HAkdViZzdipBAoypump"
+    },
+    "RM9000": {
+        "price": 0.00264,
+        "rate": 2,
+        "holders": [
+            "CGkMaFkYjqnvy5RYbAZZ8LyY4e9yXw9ekYwEMiY9m8ym",
+            "BWg7T2hD4FB4yQ9B3V2KfCxQHsuZc2byjMBrUUnSMB1A"
+        ],
+        "contract": "G6haJithfeUgSghVpu1rDPCq2NFiYcJFHNpHEANbpump"
+    },
+    "Pnut ": {
+        "price": 1.61,
+        "rate": 2,
+        "holders": [
+            "6KVyzB7Sxx2Rnk7J8ZEhBZPbKyiRq3tPY9YNhtCjcems",
+            "HsDC4zBM1z9kHREZSfnHRVXXSa9QmaDcLbSbZNw5LbEd"
+        ],
+        "contract": "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump"
+    },
+    "SHYT": {
+        "price": 0.003572,
+        "rate": 2,
+        "holders": [
+            "C2Mx5pVPUexpeYTWvSCiN9uiL7RyiBXRzGXns6duX9gG",
+            "2s1xW3rvrtQ3Ez4Z3iPnzUDMPGfWMFkK2Cs2urgGxrCy"
+        ],
+        "contract": "Acxq1jXePGYrb6gSJyG8gEzx9UwPiU2gW7uiK2oGpump"
+    },
+    "girl": {
+        "price": 0.002846,
+        "rate": 2,
+        "holders": [
+            "C2Mx5pVPUexpeYTWvSCiN9uiL7RyiBXRzGXns6duX9gG",
+            "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY"
+        ],
+        "contract": "8TFJUPvQgzPXZadxWUA7vvaNhbiPw3KXdtfVTGsnpump"
+    },
+    "unc": {
+        "price": 0.00205,
+        "rate": 2,
+        "holders": [
+            "HfqgVXrKv8vBoqLGqGgEpxAR1vw6hUH28CUkdytU2Cuf",
+            "2s1xW3rvrtQ3Ez4Z3iPnzUDMPGfWMFkK2Cs2urgGxrCy"
+        ],
+        "contract": "Fydx7jRPVT7iJi8VNLCdXp1iH7KeqLj1bsuFHUAPpump"
+    },
+    "Arie": {
+        "price": 0.0155,
+        "rate": 2,
+        "holders": [
+            "28MyYrYpRwAwiACFwKQbzJ7LXAq3tSBPTJzrmG6ep1Fi",
+            "9M5QGgUbL2VWniwgN6jTHwLJSyktgz738QjmbSWMhQS4"
+        ],
+        "contract": "4ZiYgt9nyPXvSfBWADGYHiWnTdnogrFgLTALdFWVpump"
+    },
+    "SHUFFLE": {
+        "price": 0.002954,
+        "rate": 2,
+        "holders": [
+            "HsDC4zBM1z9kHREZSfnHRVXXSa9QmaDcLbSbZNw5LbEd",
+            "928HvrAk5YVgksEP87KixnkhqjXTcagYYmZfZzSgLq8T"
+        ],
+        "contract": "DueNdyyx5a1ZMeaZr5kSSK3BjM5ADnDmhnD8ya4R8pGE"
+    },
+    "JitoSOL": {
+        "price": 274.45,
+        "rate": 2,
+        "holders": [
+            "8Hkbb3fkyBZi92dtGEXWuZyErRhUHSnHwTQJjxr32upg",
+            "4ALzjSMHnYPPxonmceFEszDCFVSXahhzNAKKPwgsDJaP"
+        ],
+        "contract": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn"
+    },
+    "SIGMA": {
+        "price": 0.08449,
+        "rate": 2,
+        "holders": [
+            "3UjuWkeBDpsRsbuCZ1BgeW5K4xyygePoViH2khSsHfrV",
+            "AykJbGJ6e2MVAw4Y9ekPBDQNmVbhBZQayD8XHnA2xmTQ"
+        ],
+        "contract": "5SVG3T9CNQsm2kEwzbRq6hASqh1oGfjqTtLXYUibpump"
+    },
+    "DOGECAST": {
+        "price": 0.004393,
+        "rate": 2,
+        "holders": [
+            "2BU3NAzgRA2gg2MpzwwXpA8X4CCRaLgrf6TY1FKfJPX2",
+            "45KqzgVjjw9QvHweetoGpUGAVZkZPMDdZtS63qx7f6GN"
+        ],
+        "contract": "ChHAfQsUznqUpvFSNQsu42KsRr1t3ct56fBigVSHpump"
+    },
+    "ELIZA": {
+        "price": 0.0376,
+        "rate": 2,
+        "holders": [
+            "2BU3NAzgRA2gg2MpzwwXpA8X4CCRaLgrf6TY1FKfJPX2",
+            "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY"
+        ],
+        "contract": "5voS9evDjxF589WuEub5i4ti7FWQmZCsAsyD5ucbuRqM"
+    },
+    "　": {
+        "price": 0.02652,
+        "rate": 2,
+        "holders": [
+            "HrUvrcRSNn9hZP6rXHnncxGw11k5dMtLxrsfFePUKmbA",
+            "9M5QGgUbL2VWniwgN6jTHwLJSyktgz738QjmbSWMhQS4"
+        ],
+        "contract": "9qriMjPPAJTMCtfQnz7Mo9BsV2jAWTr2ff7yc3JWpump"
+    },
+    "EARL": {
+        "price": 0.0169,
+        "rate": 2,
+        "holders": [
+            "HrUvrcRSNn9hZP6rXHnncxGw11k5dMtLxrsfFePUKmbA",
+            "AryNiux7LnqarYAjnhUizec5bY8zBh7PWG43a9Pj7Zhx"
+        ],
+        "contract": "BjjvKX5k7gQoGRmvQAA5WMr7EkQ2cirGTSGxAznDpump"
+    },
+    "SOL": {
+        "price": 235.71,
+        "rate": 2,
+        "holders": [
+            "DhJNSHwyQ577dKevaXBq6EAJrVcBvV7TbY1G9QNh7bJg",
+            "71m12A5zLEowFRkwunLvd1MgUUPRBbMCxQPafxkg9idF"
+        ],
+        "contract": "So11111111111111111111111111111111111111112"
+    },
+    "BRAINLET": {
+        "price": 0.02569,
+        "rate": 2,
+        "holders": [
+            "DCRSAhR9Q4RVSKX19oc2Zq7j8qCw3V4X632etRRX8Lr4",
+            "3gvaqHrFdGaLXpXtMHaeKRDUdEC18WF7pNSMX5QYFAST"
+        ],
+        "contract": "8NNXWrWVctNw1UFeaBypffimTdcLCcD8XJzHvYsmgwpF"
+    },
+    "WORM": {
+        "price": 0.07292,
+        "rate": 2,
+        "holders": [
+            "45KqzgVjjw9QvHweetoGpUGAVZkZPMDdZtS63qx7f6GN",
+            "EnGZBjDA5tTkcX8SHLa6mEqty22tV7NpdWAKB9r7U5pi"
+        ],
+        "contract": "DwDtUqBZJtbRpdjsFw3N7YKB5epocSru25BGcVhfcYtg"
+    },
+    "vvaifu": {
+        "price": 0.08648,
+        "rate": 2,
+        "holders": [
+            "928HvrAk5YVgksEP87KixnkhqjXTcagYYmZfZzSgLq8T",
+            "EnGZBjDA5tTkcX8SHLa6mEqty22tV7NpdWAKB9r7U5pi"
+        ],
+        "contract": "FQ1tyso61AH1tzodyJfSwmzsD3GToybbRNoZxUBz21p8"
+    },
+    "GIGA": {
+        "price": 0.03793,
+        "rate": 2,
+        "holders": [
+            "AykJbGJ6e2MVAw4Y9ekPBDQNmVbhBZQayD8XHnA2xmTQ",
+            "23FhuJYzusyUTbvw2s6KuQbMMww4HQV923fbZ8GsM7jE"
+        ],
+        "contract": "63LfDmNb3MQ8mw9MtZ2To9bEA2M71kZUUGq5tiJxcqj9"
+    },
+    "blormmy": {
+        "price": 0.01373,
+        "rate": 2,
+        "holders": [
+            "BWg7T2hD4FB4yQ9B3V2KfCxQHsuZc2byjMBrUUnSMB1A",
+            "EnGZBjDA5tTkcX8SHLa6mEqty22tV7NpdWAKB9r7U5pi"
+        ],
+        "contract": "71AZt4P5kc5vpfTJR1HjNbMzD84G7vxam4DtL3kJpump"
+    },
+    "ZEREBRO": {
+        "price": 0.3356,
+        "rate": 2,
+        "holders": [
+            "BWg7T2hD4FB4yQ9B3V2KfCxQHsuZc2byjMBrUUnSMB1A",
+            "EnGZBjDA5tTkcX8SHLa6mEqty22tV7NpdWAKB9r7U5pi"
+        ],
+        "contract": "8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn"
+    },
+    "BUCK": {
+        "price": 0.0165,
+        "rate": 2,
+        "holders": [
+            "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY",
+            "EnGZBjDA5tTkcX8SHLa6mEqty22tV7NpdWAKB9r7U5pi"
+        ],
+        "contract": "FLqmVrv6cp7icjobpRMQJMEyjF3kF84QmC4HXpySpump"
+    },
+    "WINTER": {
+        "price": 0.0236,
+        "rate": 2,
+        "holders": [
+            "8o8BBdC8PBs3EDLBjwBYFmUAke8F4Ej2CQCpkSkZ36m3",
+            "EnGZBjDA5tTkcX8SHLa6mEqty22tV7NpdWAKB9r7U5pi"
+        ],
+        "contract": "4j2gUEmfbSAacvSSd6yXo8yEzXCAUVeoXrqLVV3apump"
+    },
+    "bro": {
+        "price": 0.004394,
+        "rate": 1,
+        "holders": [
+            "CGkMaFkYjqnvy5RYbAZZ8LyY4e9yXw9ekYwEMiY9m8ym"
+        ],
+        "contract": "33rVymHHPxfMvg4EHKBRF3h8a37cG7Et3eQWZzAkpump"
+    },
+    "Cupsey": {
+        "price": 0.005619,
+        "rate": 1,
+        "holders": [
+            "CGkMaFkYjqnvy5RYbAZZ8LyY4e9yXw9ekYwEMiY9m8ym"
+        ],
+        "contract": "5PsnNwPmMtsGZgG6ZqMoDJJi28BR5xpAotXHHiQhpump"
+    },
+    "Understand": {
+        "price": 0.005133,
+        "rate": 1,
+        "holders": [
+            "C2Mx5pVPUexpeYTWvSCiN9uiL7RyiBXRzGXns6duX9gG"
+        ],
+        "contract": "C1ia2bYoa2V9sSGy9S5139nztQy6Uzz4gzYwuCkRpump"
+    },
+    "ai16z": {
+        "price": 0.2124,
+        "rate": 1,
+        "holders": [
+            "C2Mx5pVPUexpeYTWvSCiN9uiL7RyiBXRzGXns6duX9gG"
+        ],
+        "contract": "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC"
+    },
+    "BAKKT": {
+        "price": 0.00879,
+        "rate": 1,
+        "holders": [
+            "C2Mx5pVPUexpeYTWvSCiN9uiL7RyiBXRzGXns6duX9gG"
+        ],
+        "contract": "Hz4CJCpZky4YD75Zs2R2nBjP5wY6tYbraaT2hVZCpump"
+    },
+    "Homer": {
+        "price": 0.001434,
+        "rate": 1,
+        "holders": [
+            "C2Mx5pVPUexpeYTWvSCiN9uiL7RyiBXRzGXns6duX9gG"
+        ],
+        "contract": "C1SQapeS7oBbbcRj22MpXUtwcRSqBFFSHA7G12oGpump"
+    },
+    "NotChill": {
+        "price": 0.001475,
+        "rate": 1,
+        "holders": [
+            "HfqgVXrKv8vBoqLGqGgEpxAR1vw6hUH28CUkdytU2Cuf"
+        ],
+        "contract": "3LNQD9bZjiNhS2ZAgBdMoHZ1rYK7k8XdEetnGogTpump"
+    },
+    "FOREST": {
+        "price": 0.02594,
+        "rate": 1,
+        "holders": [
+            "HfqgVXrKv8vBoqLGqGgEpxAR1vw6hUH28CUkdytU2Cuf"
+        ],
+        "contract": "BoAQaykj3LtkM2Brevc7cQcRAzpqcsP47nJ2rkyopump"
+    },
+    "thumb": {
+        "price": 0.004112,
+        "rate": 1,
+        "holders": [
+            "HfqgVXrKv8vBoqLGqGgEpxAR1vw6hUH28CUkdytU2Cuf"
+        ],
+        "contract": "BdNKUUo8vnvdhwi1Ejn4PXNfeeQF2374hCK3m91ppump"
+    },
+    "CRIME": {
+        "price": 0.003422,
+        "rate": 1,
+        "holders": [
+            "HfqgVXrKv8vBoqLGqGgEpxAR1vw6hUH28CUkdytU2Cuf"
+        ],
+        "contract": "7M3gDRgozcumFsiTeXwjB8cYxpg7Q9R7rH7rkw2Fpump"
+    },
+    "euphoric": {
+        "price": 0.002619,
+        "rate": 1,
+        "holders": [
+            "HfqgVXrKv8vBoqLGqGgEpxAR1vw6hUH28CUkdytU2Cuf"
+        ],
+        "contract": "EHRZ7UTweF6uoeVWtKCRXatss9nwbSPDY1tPBt2fpump"
+    },
+    "FRIES": {
+        "price": 0.002879,
+        "rate": 1,
+        "holders": [
+            "HfqgVXrKv8vBoqLGqGgEpxAR1vw6hUH28CUkdytU2Cuf"
+        ],
+        "contract": "uto2Lz8BLvW7D8gkuXqtpWdxRTfsWiaETkn3Mvhpump"
+    },
+    "GAMBLE": {
+        "price": 0.0008183,
+        "rate": 1,
+        "holders": [
+            "HfqgVXrKv8vBoqLGqGgEpxAR1vw6hUH28CUkdytU2Cuf"
+        ],
+        "contract": "4ZDFnVXL2ED9htVnLTNMwCwVttp8TbBJcwzFePZwpump"
+    },
+    "CCTV": {
+        "price": 0.00157,
+        "rate": 1,
+        "holders": [
+            "8Hkbb3fkyBZi92dtGEXWuZyErRhUHSnHwTQJjxr32upg"
+        ],
+        "contract": "G3Kzy6mbETc4AnhL32pLzyR2Tu2U7fRCUdDeBqXJpump"
+    },
+    "LOOK": {
+        "price": 0.005063,
+        "rate": 1,
+        "holders": [
+            "3UjuWkeBDpsRsbuCZ1BgeW5K4xyygePoViH2khSsHfrV"
+        ],
+        "contract": "BSqMUYb6ePwKsby85zrXaDa4SNf6AgZ9YfA2c4mZpump"
+    },
+    "TJR": {
+        "price": 0.001484,
+        "rate": 1,
+        "holders": [
+            "3UjuWkeBDpsRsbuCZ1BgeW5K4xyygePoViH2khSsHfrV"
+        ],
+        "contract": "CwsmpcHjNZVGkvXPYiL3KET84F9Eettfz1ukDQLKpump"
+    },
+    "alpha": {
+        "price": 0.00463,
+        "rate": 1,
+        "holders": [
+            "3UjuWkeBDpsRsbuCZ1BgeW5K4xyygePoViH2khSsHfrV"
+        ],
+        "contract": "2zrH2jE542mzB4HABgBjdWMQPtNC5H12pwo1iLpfpump"
+    },
+    "ALP": {
+        "price": 0.003001,
+        "rate": 1,
+        "holders": [
+            "3UjuWkeBDpsRsbuCZ1BgeW5K4xyygePoViH2khSsHfrV"
+        ],
+        "contract": "8ThSrRA6qpkva4bGE6DNfFKnuKuCPM22Db16zS1Mpump"
+    },
+    "BULLY": {
+        "price": 0.02549,
+        "rate": 1,
+        "holders": [
+            "EP6kq5eswZYsfuUiAA5mUcXunFkLUM439vMms1DtXXjD"
+        ],
+        "contract": "79yTpy8uwmAkrdgZdq6ZSBTvxKsgPrNqTLvYQBh1pump"
+    },
+    "OMEGA": {
+        "price": 0.02771,
+        "rate": 1,
+        "holders": [
+            "EP6kq5eswZYsfuUiAA5mUcXunFkLUM439vMms1DtXXjD"
+        ],
+        "contract": "3DkVGaNSMTcxFkgGDAm299FaVxgnCw2411vxZTmRpump"
+    },
+    "EPIK": {
+        "price": 0.01556,
+        "rate": 1,
+        "holders": [
+            "6RDwGkLLdiw91yDeChB8Pv3VpkepJ3WdnLRwaSMQFqBm"
+        ],
+        "contract": "3BgwJ8b7b9hHX4sgfZ2KJhv9496CoVfsMK2YePevsBRw"
+    },
+    "MEF": {
+        "price": 0.001166,
+        "rate": 1,
+        "holders": [
+            "HaADMdMUdshuPKVTw1wS8AFUfswg4Ks1PxAjRePrheuW"
+        ],
+        "contract": "4ep5qigDe3DSSzZjuMKe8HcX4ohacS4H1Lksy122pump"
+    },
+    "JLP": {
+        "price": 3.98,
+        "rate": 1,
+        "holders": [
+            "4ALzjSMHnYPPxonmceFEszDCFVSXahhzNAKKPwgsDJaP"
+        ],
+        "contract": "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
+    },
+    "LOOBY": {
+        "price": 0.001023,
+        "rate": 1,
+        "holders": [
+            "83r8mtvmZXhytf8BeYYtBJtTABRDHuLLEez3CBpUMXaT"
+        ],
+        "contract": "CyRbC97yrkUB31sv9PLw5Hw8276zXH4sRoTE1KcDpump"
+    },
+    "GRASS": {
+        "price": 2.41,
+        "rate": 1,
+        "holders": [
+            "54eKCWB8MY2k5wA5JJTwhcqe9pczWx8tH9xho4UVAHsL"
+        ],
+        "contract": "Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs"
+    },
+    "MEWING": {
+        "price": 0.002044,
+        "rate": 1,
+        "holders": [
+            "BZi5L1mCmVjXdUmeCRQWfKvuWqXakmRYQPFpmS559hD1"
+        ],
+        "contract": "9bxaVJmUwSc71j8Z2pvUL3UAr1s5fCnwUpvYhqV9jtmw"
+    },
+    "MENG": {
+        "price": 0.003657,
+        "rate": 1,
+        "holders": [
+            "BZi5L1mCmVjXdUmeCRQWfKvuWqXakmRYQPFpmS559hD1"
+        ],
+        "contract": "8Rqc8foPzUZkxRQGuyCTAZS7QKAwncJVvgKXz1AKpump"
+    },
+    "demure": {
+        "price": 0.0004519,
+        "rate": 1,
+        "holders": [
+            "2BU3NAzgRA2gg2MpzwwXpA8X4CCRaLgrf6TY1FKfJPX2"
+        ],
+        "contract": "Dv4FD3WksCDjF8W5r2wU5onnPQzRgpb2hJ3gpQx4pump"
+    },
+    "TUZKI": {
+        "price": 0.003119,
+        "rate": 1,
+        "holders": [
+            "2BU3NAzgRA2gg2MpzwwXpA8X4CCRaLgrf6TY1FKfJPX2"
+        ],
+        "contract": "7aPQ9Q6v3cQarvdnakobUBQEBZj9SPkqENE6qne7pump"
+    },
+    "UNEMPLOYED": {
+        "price": 0.0004999,
+        "rate": 1,
+        "holders": [
+            "BYrUAksL3r2q3WDQvyfBsD1zhFqSkj9ujHQ2wtk5yLGn"
+        ],
+        "contract": "CVS369sibsGWJxZNU7TJFtnxzq6Gg7xzmWXaEo68pump"
+    },
+    "COOK": {
+        "price": 0.00949,
+        "rate": 1,
+        "holders": [
+            "BYrUAksL3r2q3WDQvyfBsD1zhFqSkj9ujHQ2wtk5yLGn"
+        ],
+        "contract": "G8Vy25NzjRmuQtnN35xF7j3X2Z1TrV39XijZu8Mg4w8n"
+    },
+    "MANGO": {
+        "price": 0.001175,
+        "rate": 1,
+        "holders": [
+            "BYrUAksL3r2q3WDQvyfBsD1zhFqSkj9ujHQ2wtk5yLGn"
+        ],
+        "contract": "HChvMnhn75qFw88hmryZyD83cRt5vt2Q8NLiTKwypump"
+    },
+    "swaggy": {
+        "price": 0.006528,
+        "rate": 1,
+        "holders": [
+            "HrUvrcRSNn9hZP6rXHnncxGw11k5dMtLxrsfFePUKmbA"
+        ],
+        "contract": "woLfjy1RzfvjLNC1AEEqafx1Q3bPDUU3QW6kmBYQjP4"
+    },
+    "Ban": {
+        "price": 0.2553,
+        "rate": 1,
+        "holders": [
+            "HrUvrcRSNn9hZP6rXHnncxGw11k5dMtLxrsfFePUKmbA"
+        ],
+        "contract": "9PR7nCP9DpcUotnDPVLUBUZKu5WAYkwrCUx9wDnSpump"
+    },
+    "ASS": {
+        "price": 0.007787,
+        "rate": 1,
+        "holders": [
+            "HrUvrcRSNn9hZP6rXHnncxGw11k5dMtLxrsfFePUKmbA"
+        ],
+        "contract": "CfgmB9iTWABdYh3CHQQDUGtWy18rMNAEEqyp4GrJpump"
+    },
+    "NPC": {
+        "price": 0.05074,
+        "rate": 1,
+        "holders": [
+            "9M5QGgUbL2VWniwgN6jTHwLJSyktgz738QjmbSWMhQS4"
+        ],
+        "contract": "BeGY8KqKxboEwRbJd1q9H2K829jS4Rc5dEyNMYXCbV5p"
+    },
+    "HARAMBE": {
+        "price": 0.03868,
+        "rate": 1,
+        "holders": [
+            "9M5QGgUbL2VWniwgN6jTHwLJSyktgz738QjmbSWMhQS4"
+        ],
+        "contract": "Fch1oixTPri8zxBnmdCEADoJW2toyFHxqDZacQkwdvSP"
+    },
+    "WEN": {
+        "price": 0.0001618,
+        "rate": 1,
+        "holders": [
+            "9M5QGgUbL2VWniwgN6jTHwLJSyktgz738QjmbSWMhQS4"
+        ],
+        "contract": "WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk"
+    },
+    "CRIS": {
+        "price": 0.0009089,
+        "rate": 1,
+        "holders": [
+            "928HvrAk5YVgksEP87KixnkhqjXTcagYYmZfZzSgLq8T"
+        ],
+        "contract": "AaV3hry7G3kLTAmM1dKwxDiqfGuPCtuSvvQCcozRpump"
+    },
+    "APT": {
+        "price": 0.0003307,
+        "rate": 1,
+        "holders": [
+            "928HvrAk5YVgksEP87KixnkhqjXTcagYYmZfZzSgLq8T"
+        ],
+        "contract": "Dx7ov1L9fbALFLdLkuvw9e4f98vSuMMMfPUhXxE6pump"
+    },
+    "HAKA": {
+        "price": 0.0004956,
+        "rate": 1,
+        "holders": [
+            "928HvrAk5YVgksEP87KixnkhqjXTcagYYmZfZzSgLq8T"
+        ],
+        "contract": "b9UAMxt2UVT4NWWoBL1ohMWSoTLnmGFfrmVfCAopump"
+    },
+    "BRUZZ": {
+        "price": 0.001689,
+        "rate": 1,
+        "holders": [
+            "928HvrAk5YVgksEP87KixnkhqjXTcagYYmZfZzSgLq8T"
+        ],
+        "contract": "GEUBMBTWuJsoudgJhEKr4ZQvT5awEdR7ZQELP2LJpump"
+    },
+    "OIIAOIIA": {
+        "price": 0.004548,
+        "rate": 1,
+        "holders": [
+            "928HvrAk5YVgksEP87KixnkhqjXTcagYYmZfZzSgLq8T"
+        ],
+        "contract": "VaxZxmFXV8tmsd72hUn22ex6GFzZ5uq9DVJ5wA5pump"
+    },
+    "Flower": {
+        "price": 0.00627,
+        "rate": 1,
+        "holders": [
+            "928HvrAk5YVgksEP87KixnkhqjXTcagYYmZfZzSgLq8T"
+        ],
+        "contract": "AVyjco9j8vv7ZPkhCpEoPJ3bLEuw7G1wrrNt8DrApump"
+    },
+    "HAMMY": {
+        "price": 0.02572,
+        "rate": 1,
+        "holders": [
+            "928HvrAk5YVgksEP87KixnkhqjXTcagYYmZfZzSgLq8T"
+        ],
+        "contract": "26KMQVgDUoB6rEfnJ51yAABWWJND8uMtpnQgsHQ64Udr"
+    },
+    "MATL": {
+        "price": 0.01447,
+        "rate": 1,
+        "holders": [
+            "928HvrAk5YVgksEP87KixnkhqjXTcagYYmZfZzSgLq8T"
+        ],
+        "contract": "55si56A7basZmTovy8zmLkDR9DfaD32GEe6YkvCQpump"
+    },
+    "AICAT": {
+        "price": 0.004847,
+        "rate": 1,
+        "holders": [
+            "2KQrAbqQqxJjzkH3HWXzEpF6vr6KZ6F4PVfG9Q6zbLsv"
+        ],
+        "contract": "6W34k5VBA68DXFZPfLz4o8yJgJoiiR4YoQfbtAAZpump"
+    },
+    "SELFIE": {
+        "price": 0.02552,
+        "rate": 1,
+        "holders": [
+            "AykJbGJ6e2MVAw4Y9ekPBDQNmVbhBZQayD8XHnA2xmTQ"
+        ],
+        "contract": "9WPTUkh8fKuCnepRWoPYLH3aK9gSjPHFDenBq2X1Czdp"
+    },
+    "SPX": {
+        "price": 0.6042,
+        "rate": 1,
+        "holders": [
+            "AykJbGJ6e2MVAw4Y9ekPBDQNmVbhBZQayD8XHnA2xmTQ"
+        ],
+        "contract": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr"
+    },
+    "SLERF": {
+        "price": 0.2864,
+        "rate": 1,
+        "holders": [
+            "AykJbGJ6e2MVAw4Y9ekPBDQNmVbhBZQayD8XHnA2xmTQ"
+        ],
+        "contract": "7BgBvyjrZX1YKz4oh9mjb8ZScatkkwb8DzFx7LoiVkM3"
+    },
+    "PONKE": {
+        "price": 0.6887,
+        "rate": 1,
+        "holders": [
+            "AykJbGJ6e2MVAw4Y9ekPBDQNmVbhBZQayD8XHnA2xmTQ"
+        ],
+        "contract": "5z3EqYQo9HiCEs3R84RCDMu2n7anpDMxRhdK8PSWmrRC"
+    },
+    "mini": {
+        "price": 0.0385,
+        "rate": 1,
+        "holders": [
+            "AykJbGJ6e2MVAw4Y9ekPBDQNmVbhBZQayD8XHnA2xmTQ"
+        ],
+        "contract": "2JcXacFwt9mVAwBQ5nZkYwCyXQkRcdsYrDXn6hj22SbP"
+    },
+    "MUMU": {
+        "price": 5.896e-05,
+        "rate": 1,
+        "holders": [
+            "AykJbGJ6e2MVAw4Y9ekPBDQNmVbhBZQayD8XHnA2xmTQ"
+        ],
+        "contract": "5LafQUrVco6o7KMz42eqVEJ9LW31StPyGjeeu5sKoMtA"
+    },
+    "MANEKI": {
+        "price": 0.01182,
+        "rate": 1,
+        "holders": [
+            "AykJbGJ6e2MVAw4Y9ekPBDQNmVbhBZQayD8XHnA2xmTQ"
+        ],
+        "contract": "25hAyBQfoDhfWx9ay6rarbgvWGwDdNqcHsXS3jQ3mTDJ"
+    },
+    "$michi": {
+        "price": 0.3515,
+        "rate": 1,
+        "holders": [
+            "AykJbGJ6e2MVAw4Y9ekPBDQNmVbhBZQayD8XHnA2xmTQ"
+        ],
+        "contract": "5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp"
+    },
+    "LOCKIN": {
+        "price": 0.06443,
+        "rate": 1,
+        "holders": [
+            "AykJbGJ6e2MVAw4Y9ekPBDQNmVbhBZQayD8XHnA2xmTQ"
+        ],
+        "contract": "8Ki8DpuWNxu9VsS3kQbarsCWMcFGWkzzA8pUPto9zBd5"
+    },
+    "$MYRO": {
+        "price": 0.1232,
+        "rate": 1,
+        "holders": [
+            "AykJbGJ6e2MVAw4Y9ekPBDQNmVbhBZQayD8XHnA2xmTQ"
+        ],
+        "contract": "HhJpBhRRn4g56VsyLuT8DL5Bv31HkXqsrahTTUCZeZg4"
+    },
+    "GNOSIS": {
+        "price": 0.002935,
+        "rate": 1,
+        "holders": [
+            "BWg7T2hD4FB4yQ9B3V2KfCxQHsuZc2byjMBrUUnSMB1A"
+        ],
+        "contract": "Be6mYmT59zuB98hY55aYecnBXRetZvQwe3KSypmbpump"
+    },
+    "CHAOS": {
+        "price": 0.07415,
+        "rate": 1,
+        "holders": [
+            "BWg7T2hD4FB4yQ9B3V2KfCxQHsuZc2byjMBrUUnSMB1A"
+        ],
+        "contract": "8SgNwESovnbG1oNEaPVhg6CR9mTMSK7jPvcYRe3wpump"
+    },
+    "HUAHUA": {
+        "price": 0.004244,
+        "rate": 1,
+        "holders": [
+            "FtwH3whQtQWHX6pbuJSEHYoBXcGGF6wBKXb3Em32WraV"
+        ],
+        "contract": "77RBCP95AFT9XRsx4xuGUHjBQsjcatGYCZ2VXx8Epump"
+    },
+    "LONG": {
+        "price": 0.001628,
+        "rate": 1,
+        "holders": [
+            "H6RErn6vTw3ZSLBN9iNpP3cAq8CETh6dy6HVkEwPonjE"
+        ],
+        "contract": "CBW9tWMs2yF7oXLCZpRfGUjyqui5ppEKQ3NrQvjEpump"
+    },
+    "Manyu": {
+        "price": 0.008042,
+        "rate": 1,
+        "holders": [
+            "ByETnksPEnzhNjEhSNX2wqxurQthaXF3bps8bc8sZGfD"
+        ],
+        "contract": "CS7LmjtuugEUWtFgfyto79nrksKigv7Fdcp9qPuigdLs"
+    },
+    "MOE": {
+        "price": 0.00469,
+        "rate": 1,
+        "holders": [
+            "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY"
+        ],
+        "contract": "8xzoj8mVmXtBQm6d2euJGFPvQ2QsTV5R8cdexi2qpump"
+    },
+    "HELA": {
+        "price": 0.00494,
+        "rate": 1,
+        "holders": [
+            "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY"
+        ],
+        "contract": "DRVM9vP5coW4WHsNv1kajhn55duyuua4cJ9NGkSApump"
+    },
+    "GRIDDY": {
+        "price": 0.001939,
+        "rate": 1,
+        "holders": [
+            "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY"
+        ],
+        "contract": "A21r5h19iHhQt6b7vzkgHNgMaSAR9YSazGeJedJepump"
+    },
+    "FROG": {
+        "price": 0.0009146,
+        "rate": 1,
+        "holders": [
+            "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY"
+        ],
+        "contract": "sm6LoSiRQLM28rMgcd8GtR5XBkZFMEYXgEUgwCxpump"
+    },
+    "Alice": {
+        "price": 0.0005996,
+        "rate": 1,
+        "holders": [
+            "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY"
+        ],
+        "contract": "BH5bqSzT5gAg8F8HWCKESZ9272NsRyrHjDr13oofpump"
+    },
+    "ROSE": {
+        "price": 0.002573,
+        "rate": 1,
+        "holders": [
+            "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY"
+        ],
+        "contract": "59WtMhHrTe4Sn9gfGNhFD5bQSTLjvykJPT3nTT2Dpump"
+    },
+    "KIRBY": {
+        "price": 0.00702,
+        "rate": 1,
+        "holders": [
+            "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY"
+        ],
+        "contract": "AXTCLqqupJN3YWikgDtAZxRKWizsbePDyV9XtkDtpump"
+    },
+    "NCAT": {
+        "price": 0.001809,
+        "rate": 1,
+        "holders": [
+            "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY"
+        ],
+        "contract": "82Rc22mnyHrmBGwj15rhYhFzVrU3bgFkjNtV3iHjpump"
+    },
+    "WBTC": {
+        "price": 93023.88,
+        "rate": 1,
+        "holders": [
+            "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY"
+        ],
+        "contract": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh"
+    },
+    "NORMIE": {
+        "price": 0.0007832,
+        "rate": 1,
+        "holders": [
+            "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY"
+        ],
+        "contract": "9dYAZDK7TjT7ae67scTGMCb56Q5iQwpo9Mbfztf1pump"
+    },
+    "success": {
+        "price": 0.001174,
+        "rate": 1,
+        "holders": [
+            "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY"
+        ],
+        "contract": "4WdwAEVoQhwjkgvZNmDmyAhNvkqg9fM78F9sSpyGpump"
+    },
+    "CAITY": {
+        "price": 0.001155,
+        "rate": 1,
+        "holders": [
+            "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY"
+        ],
+        "contract": "CAiTYbs1u1Wu8wgoRGBFdzHpmywmRivUka18czy6Werp"
+    },
+    "JEFFY": {
+        "price": 0.002131,
+        "rate": 1,
+        "holders": [
+            "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY"
+        ],
+        "contract": "8v2WF3bDMemBUm3X8mKtTnPDPpfFm2KkSktwe9zNpump"
+    },
+    "UGM": {
+        "price": 0.003825,
+        "rate": 1,
+        "holders": [
+            "HooderpigTVYapoXi6PQzxwtWhq3U1cuGvyu89fGjruY"
+        ],
+        "contract": "BhePPrRHVS3YSSHphcXgxN3cBAAiSnVZ9n9NNM5Xpump"
+    },
+    "$WIF": {
+        "price": 3.26,
+        "rate": 1,
+        "holders": [
+            "Bjw4TsjQghc5bJEXqzWLP4zFxG7nSYN7Se9kCVRUkPMc"
+        ],
+        "contract": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm"
+    },
+    "BONGO": {
+        "price": 0.1083,
+        "rate": 1,
+        "holders": [
+            "8o8BBdC8PBs3EDLBjwBYFmUAke8F4Ej2CQCpkSkZ36m3"
+        ],
+        "contract": "HUdqc5MR5h3FssESabPnQ1GTgTcPvnNudAuLj5J6a9sU"
+    },
+    "blob": {
+        "price": 0.007971,
+        "rate": 1,
+        "holders": [
+            "8o8BBdC8PBs3EDLBjwBYFmUAke8F4Ej2CQCpkSkZ36m3"
+        ],
+        "contract": "DgG9sM56ZcVidBV8bNArQPm93a2rmjzHkrrUntGSpump"
+    },
+    "FATGF": {
+        "price": 0.001934,
+        "rate": 1,
+        "holders": [
+            "8o8BBdC8PBs3EDLBjwBYFmUAke8F4Ej2CQCpkSkZ36m3"
+        ],
+        "contract": "4y9E3tJpGNzRr1592oWTPECgyp2VDSc1Bf3DqAm5FZsK"
+    },
+    "bop": {
+        "price": 0.02099,
+        "rate": 1,
+        "holders": [
+            "8o8BBdC8PBs3EDLBjwBYFmUAke8F4Ej2CQCpkSkZ36m3"
+        ],
+        "contract": "F5hqdbykXuksp8P78CAZenSvpPShAYKrP2U2MiZMdgFN"
+    },
+    "AVB": {
+        "price": 0.02196,
+        "rate": 1,
+        "holders": [
+            "8o8BBdC8PBs3EDLBjwBYFmUAke8F4Ej2CQCpkSkZ36m3"
+        ],
+        "contract": "6d5zHW5B8RkGKd51Lpb9RqFQSqDudr9GJgZ1SgQZpump"
+    },
+    "illybird": {
+        "price": 0.00214,
+        "rate": 1,
+        "holders": [
+            "8o8BBdC8PBs3EDLBjwBYFmUAke8F4Ej2CQCpkSkZ36m3"
+        ],
+        "contract": "hiMH76fUqQtJ9yBPHwTZxRF84cYS8bm5tGFm2b1pump"
+    },
+    "KEYDOG": {
+        "price": 0.002518,
+        "rate": 1,
+        "holders": [
+            "2GTxgLAsbHPGUWSuj7n2kb7JpW2xQhzfXv3ukqpEjdDi"
+        ],
+        "contract": "3fGoNjPohYRVPk9iJuwEW5WuURU5gmAdSRgNgeaanexQ"
+    },
+    "GME": {
+        "price": 0.006153,
+        "rate": 1,
+        "holders": [
+            "3gvaqHrFdGaLXpXtMHaeKRDUdEC18WF7pNSMX5QYFAST"
+        ],
+        "contract": "8wXtPeU6557ETkp9WHFY1n1EcU6NxDvbAggHGsMYiHsB"
+    },
+    "wDOG": {
+        "price": 0.003589,
+        "rate": 1,
+        "holders": [
+            "3gvaqHrFdGaLXpXtMHaeKRDUdEC18WF7pNSMX5QYFAST"
+        ],
+        "contract": "GYKmdfcUmZVrqfcH1g579BGjuzSRijj3LBuwv79rpump"
+    },
+    "GRIFFAIN": {
+        "price": 0.01287,
+        "rate": 1,
+        "holders": [
+            "3gvaqHrFdGaLXpXtMHaeKRDUdEC18WF7pNSMX5QYFAST"
+        ],
+        "contract": "KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP"
+    },
+    "PESTO": {
+        "price": 0.007398,
+        "rate": 1,
+        "holders": [
+            "3gvaqHrFdGaLXpXtMHaeKRDUdEC18WF7pNSMX5QYFAST"
+        ],
+        "contract": "34a8ALsPmbWxp7D3bQ6erERrCLz1ahr6u6o66Udmpump"
+    },
+    "SCF": {
+        "price": 0.04133,
+        "rate": 1,
+        "holders": [
+            "3gvaqHrFdGaLXpXtMHaeKRDUdEC18WF7pNSMX5QYFAST"
+        ],
+        "contract": "GiG7Hr61RVm4CSUxJmgiCoySFQtdiwxtqf64MsRppump"
+    },
+    "GAYCOIN": {
+        "price": 0.007187,
+        "rate": 1,
+        "holders": [
+            "3gvaqHrFdGaLXpXtMHaeKRDUdEC18WF7pNSMX5QYFAST"
+        ],
+        "contract": "AnGzGiQ6ddzdqWDuWy6vmibqDv8rsT2QKhcgDrwTpump"
+    },
+    "supercycle": {
+        "price": 0.00797,
+        "rate": 1,
+        "holders": [
+            "EnGZBjDA5tTkcX8SHLa6mEqty22tV7NpdWAKB9r7U5pi"
+        ],
+        "contract": "2G8LH53fcr3aCrEsmAo73eunbZRbyjKrGH5qmur6pump"
+    },
+    "USA": {
+        "price": 3.538e-06,
+        "rate": 1,
+        "holders": [
+            "EnGZBjDA5tTkcX8SHLa6mEqty22tV7NpdWAKB9r7U5pi"
+        ],
+        "contract": "69kdRLyP5DTRkpHraaSZAQbWmAwzF9guKjZfzMXzcbAs"
+    },
+    "MOLLY": {
+        "price": 0.00274,
+        "rate": 1,
+        "holders": [
+            "EnGZBjDA5tTkcX8SHLa6mEqty22tV7NpdWAKB9r7U5pi"
+        ],
+        "contract": "9gzA3kSZvB25YwHj4JPfcx473KyZ6ZQZA59D9BiGpump"
+    },
+    "霞": {
+        "price": 0.01141,
+        "rate": 1,
+        "holders": [
+            "EnGZBjDA5tTkcX8SHLa6mEqty22tV7NpdWAKB9r7U5pi"
+        ],
+        "contract": "FjTJCCQpLU4fpH58mN1bTQXiQsjJVYai3QYFjYqYpump"
+    },
+    "nub": {
+        "price": 0.02276,
+        "rate": 1,
+        "holders": [
+            "EnGZBjDA5tTkcX8SHLa6mEqty22tV7NpdWAKB9r7U5pi"
+        ],
+        "contract": "GtDZKAqvMZMnti46ZewMiXCa4oXF4bZxwQPoKzXPFxZn"
+    },
+    "Project89": {
+        "price": 0.03264,
+        "rate": 1,
+        "holders": [
+            "EnGZBjDA5tTkcX8SHLa6mEqty22tV7NpdWAKB9r7U5pi"
+        ],
+        "contract": "Bz4MhmVRQENiCou7ZpJ575wpjNFjBjVBSiVhuNg1pump"
+    },
+    "PUPS": {
+        "price": 0.2743,
+        "rate": 1,
+        "holders": [
+            "EnGZBjDA5tTkcX8SHLa6mEqty22tV7NpdWAKB9r7U5pi"
+        ],
+        "contract": "2oGLxYuNBJRcepT1mEV6KnETaLD7Bf6qq3CM6skasBfe"
+    },
+    "xing": {
+        "price": 0.008781,
+        "rate": 1,
+        "holders": [
+            "EnGZBjDA5tTkcX8SHLa6mEqty22tV7NpdWAKB9r7U5pi"
+        ],
+        "contract": "5JcdnWEwuHh1v3SAARq8zH9tEwDQGpaHzBrZ81m4pump"
+    }
+}
