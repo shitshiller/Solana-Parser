@@ -47,8 +47,8 @@ def wallet_tokens(address):
         print(f'--LOG: func wallet_tokens() STATUS_CODE[{response.status_code}]')
         LOG += f'--LOG: func wallet_tokens() STATUS_CODE[{response.status_code}]\n'
     except:
-        print(f'--LOG: func wallet_tokens() STATUS_CODE[{response.status_code}]')
-        LOG += f'--LOG: func wallet_tokens() STATUS_CODE[{response.status_code}]\n'
+        print(f'--LOG: func wallet_tokens() NO INFORMATION ABOUT TOKEN')
+        LOG += f'--LOG: func wallet_tokens() NO INFORMATION ABOUT TOKEN\n'
         return wallet_assets
     if data.get('message') == EXPECTED_MESSAGE:
         print(f'--LOG: TO MANY TOKENS ACCOUNT')
