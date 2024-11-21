@@ -89,8 +89,8 @@ def get_token_info(token_address):
     except:
         token_name = token_address
         token_usd_price = 0
-        print(f'--LOG: func get_token_info() STATUS_CODE[{response.status_code}]')
-        LOG += f'--LOG: func get_token_info() STATUS_CODE[{response.status_code}]\n'
+        print(f'--LOG: func get_token_info() NO INFORMATION ABOUT TOKEN')
+        LOG += f'--LOG: func get_token_info() NO INFORMATION ABOUT TOKEN\n'
     token_info = {
         'name': token_name,
         'price': token_usd_price
